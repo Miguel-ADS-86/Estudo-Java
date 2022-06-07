@@ -4,7 +4,7 @@
 Conhecimentos adquiridos e que ainda estão em desenvolvimento.
 
 
-![App Screenshot](https://logospng.org/logo-java/)
+<img widht="500" height="500" src="https://github.com/Miguel-ADS-86/Estudo-Java/blob/main/java.png">
 
 
 ## Aprendizados
@@ -44,5 +44,5 @@ Conhecimentos adquiridos e que ainda estão em desenvolvimento.
 
 ## Autores
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@Miguel Pereira](https://www.linkedin.com/in/miguel-pereira-86b71a143?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB281FMxuTsar30TGD6EF4Q%3D%3D)
 
