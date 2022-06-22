@@ -6,9 +6,10 @@ import java.util.List;
 public class Executa {
 
 	public static void main(String[] args) {
-	String texto = "Miguel / curso / java / nota 10";
+	String texto = "Miguel/curso/java/nota 10";
 		
-		String[] valor = texto.split("/");
+		String[] valor = texto.split("\\ /");
+		System.out.println(valor);
 	   	
 		for(int i=0; i < valor.length; i++) {
 			System.out.print(valor[i]);
