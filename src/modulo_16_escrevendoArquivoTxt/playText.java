@@ -22,7 +22,7 @@ public class playText {
 		pessoas.add(p3);
 		pessoas.add(p4);
 		
-		File arquivoP = new File("C:\\Users\\migue\\OneDrive\\Documentos\\Projetos\\CursoJavaDEV\\src\\modulo_16_escrevendoArquivoTxt\\pessoa.txt");
+		File arquivoP = new File("C:\\Users\\Miguel\\Documents\\Projetos\\Estudo-Java\\src\\modulo_16_escrevendoArquivoTxt\\pessoa.txt");
 		
 		if(!arquivoP.exists()) {
 			arquivoP.createNewFile();
@@ -30,7 +30,7 @@ public class playText {
 		
 		
 	    FileWriter escrever = new FileWriter(arquivoP);
-	    // "/n" ele quebra a linha
+	    // "\n" ele quebra a linha
 	    for(Pessoa p: pessoas) {
 	    	escrever.write("id: "+ p.getId() + " nome: "+p.getNome()+" email: "+ p.getEmail()+ "\n");
 	    }
